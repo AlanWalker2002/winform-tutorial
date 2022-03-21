@@ -1,0 +1,11 @@
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\bin\Debug\Xep-Loai-Hoc-Luc-Froms.exe.config
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\bin\Debug\Xep-Loai-Hoc-Luc-Froms.exe
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\bin\Debug\Xep-Loai-Hoc-Luc-Froms.pdb
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep_Loai_Hoc_Luc_Froms.Form1.resources
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep_Loai_Hoc_Luc_Froms.Properties.Resources.resources
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.csproj.GenerateResource.cache
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.exe
+D:\Workspace\C#\Console\Learning\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\Xep-Loai-Hoc-Luc-Froms\obj\Debug\Xep-Loai-Hoc-Luc-Froms.pdb

@@ -1,0 +1,13 @@
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\bin\Debug\FormDemo.exe.config
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\bin\Debug\FormDemo.exe
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\bin\Debug\FormDemo.pdb
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.Form1.resources
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.Properties.Resources.resources
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.csproj.GenerateResource.cache
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.exe
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.pdb
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.frmLogin.resources
+D:\Workspace\C#\Console\Learning\FormDemo\FormDemo\FormDemo\obj\Debug\FormDemo.Form2.resources

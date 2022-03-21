@@ -1,0 +1,11 @@
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\bin\Debug\Chon-Mon-The-Thao.exe.config
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\bin\Debug\Chon-Mon-The-Thao.exe
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\bin\Debug\Chon-Mon-The-Thao.pdb
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon_Mon_The_Thao.Form1.resources
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon_Mon_The_Thao.Properties.Resources.resources
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.csproj.GenerateResource.cache
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.exe
+D:\Workspace\C#\Console\Learning\Chon-Mon-The-Thao\Chon-Mon-The-Thao\Chon-Mon-The-Thao\obj\Debug\Chon-Mon-The-Thao.pdb

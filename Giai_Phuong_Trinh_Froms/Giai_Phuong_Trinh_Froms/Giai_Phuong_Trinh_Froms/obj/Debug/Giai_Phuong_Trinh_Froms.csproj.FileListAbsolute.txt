@@ -1,0 +1,11 @@
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\bin\Debug\Giai_Phuong_Trinh_Froms.exe.config
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\bin\Debug\Giai_Phuong_Trinh_Froms.exe
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\bin\Debug\Giai_Phuong_Trinh_Froms.pdb
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.Form1.resources
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.Properties.Resources.resources
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.csproj.GenerateResource.cache
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.exe
+D:\Workspace\C#\Console\Learning\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\Giai_Phuong_Trinh_Froms\obj\Debug\Giai_Phuong_Trinh_Froms.pdb

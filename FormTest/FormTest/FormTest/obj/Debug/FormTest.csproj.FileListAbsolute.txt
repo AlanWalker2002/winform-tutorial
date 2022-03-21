@@ -1,0 +1,12 @@
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\bin\Debug\FormTest.exe.config
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\bin\Debug\FormTest.exe
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\bin\Debug\FormTest.pdb
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.Form1.resources
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.cache
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.pdb
+D:\Workspace\C#\Console\Learning\FormTest\FormTest\FormTest\obj\Debug\FormTest.Form2.resources
